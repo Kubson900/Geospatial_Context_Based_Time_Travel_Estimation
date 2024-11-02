@@ -3,15 +3,15 @@
 black[jupyter]
 # contextily
 # fastparquet
-# folium
+folium
 geopandas
 # geoviews
 # glob2
 # hvplot
 ipykernel
 ipywidgets
-# mapclassify
-# matplotlib
+mapclassify
+matplotlib
 movingpandas
 notebook
 # numpy
