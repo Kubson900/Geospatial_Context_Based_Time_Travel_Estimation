@@ -1,0 +1,29 @@
+# Python 3.12.7
+
+black[jupyter]
+# contextily
+# fastparquet
+# folium
+geopandas
+# geoviews
+# glob2
+# hvplot
+ipykernel
+ipywidgets
+# mapclassify
+# matplotlib
+movingpandas
+notebook
+# numpy
+pandas
+pyogrio
+# pyarrow
+scikit-learn
+shapely
+srai
+stonesoup
+tqdm
+
+# --extra-index-url https://download.pytorch.org/whl/cu121
+# torch
+# torchvision
